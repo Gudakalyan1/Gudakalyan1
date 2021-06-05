@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gudakalyan1
-- 👀 I’m interested in data analytics.
+- 👋 Hi, I’m KALYAN
+- 👀 I’m interested in Analytics and data science
 - 🌱 I’m currently learning machine learning. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
