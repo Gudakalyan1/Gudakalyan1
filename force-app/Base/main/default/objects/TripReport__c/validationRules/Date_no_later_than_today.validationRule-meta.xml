@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Date_no_later_than_today</fullName>
+    <active>true</active>
+    <description>The date must be no later than today.</description>
+    <errorConditionFormula>Date__c &gt; TODAY()</errorConditionFormula>
+    <errorDisplayField>Date__c</errorDisplayField>
+    <errorMessage>The date must be no later than today.</errorMessage>
+</ValidationRule>

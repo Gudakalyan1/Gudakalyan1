@@ -1,0 +1,2 @@
+LoadCertificationData.deleteTheData();
+LoadCertificationData.loadTheData();

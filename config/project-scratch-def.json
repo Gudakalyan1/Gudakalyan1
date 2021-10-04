@@ -1,0 +1,14 @@
+{
+	"orgName": "AW Computing",
+	"edition": "Developer",
+    "settings": {
+        "lightningExperienceSettings": {
+			"enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+        },
+        "languageSettings": {
+            "enableTranslationWorkbench": true
+        }
+    }
+}
