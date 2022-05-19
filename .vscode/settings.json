@@ -1,0 +1,4 @@
+{
+    "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+    "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true
+}
